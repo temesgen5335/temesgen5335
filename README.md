@@ -3,11 +3,11 @@
 
 - 🔭 I'm currently working on [System and Network security analyst](https://www.mint.gov.et/)
 
-- 🌱 I'm currently learning **Upskilling in Gen AI, Machine Learning, and Data Engineering**
+- 🌱 I'm currently learning **Gen AI, Machine Learning, and Data Engineering**
 
 - 📝 I regularly write articles on [https://medium.com/@temesgen5335](https://medium.com/@temesgen5335)
 
-- 💬 Ask me about **Python, Javascript, php, SQL**
+- 💬 Ask me about **Python, Javascript, php, SQL,Data science, LLM concepts**
 
 - 📫 How to reach me **temesgen5335@gmail.com**
 
