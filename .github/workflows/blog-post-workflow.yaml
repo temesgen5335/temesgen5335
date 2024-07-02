@@ -1,23 +1,22 @@
-name: Latest blog post workflow
+#name: Latest blog post workflow
+#on:
+#  schedule:
+#   - cron: '0 * * * *' # Runs every hour, on the hour
+#  workflow_dispatch: # Allows manual execution from GitHub Actions UI
 
-on:
-  schedule:
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Allows manual execution from GitHub Actions UI
+#permissions:
+#  contents: write # To write the generated contents to the readme
 
-permissions:
-  contents: write # To write the generated contents to the readme
+#jobs:
+# update-readme-with-blog:
+#    name: Update this repo's README with latest blog posts
+#    runs-on: ubuntu-latest
+#    steps:
+#      - name: Checkout repository
+#        uses: actions/checkout@v2
 
-jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-
-      - name: Update README with latest blog posts
-        uses: temesgen5335/blog-post-workflow@master
-        with:
-          max_post_count: 4 
-          feed_list: "https://medium.com/feed/@temesgen5335" 
+#      - name: Update README with latest blog posts
+#        uses: temesgen5335/blog-post-workflow@master
+#        with:
+#          max_post_count: 4 
+#          feed_list: "https://medium.com/feed/@temesgen5335" 
