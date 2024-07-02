@@ -31,18 +31,12 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## GitHub Stats
-<div>
-  ![Temesgen's GitHub stats](https://github-readme-stats.vercel.app/api?username=temesgen5335&show_icons=true&theme=radical)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=temesgen5335&layout=compact&theme=radical)
-</div>
-
 
 ## GitHub Stats and Top Languages
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=temesgen5335&show_icons=true&theme=radical" alt="Temesgen's GitHub stats" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temesgen5335&layout=compact&theme=radical" alt="Top Languages" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=temesgen5335&show_icons=true&theme=radical" alt="Temesgen's GitHub stats" width="60%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temesgen5335&layout=compact&theme=radical" alt="Top Languages" width="40%">
 </div>
 
 
