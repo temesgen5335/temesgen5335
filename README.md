@@ -32,11 +32,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## GitHub Stats
+<div>
+  ![Temesgen's GitHub stats](https://github-readme-stats.vercel.app/api?username=temesgen5335&show_icons=true&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=temesgen5335&layout=compact&theme=radical)
+</div>
 
-![Temesgen's GitHub stats](https://github-readme-stats.vercel.app/api?username=temesgen5335&show_icons=true&theme=radical)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=temesgen5335&layout=compact&theme=radical)
 
 ## GitHub Stats and Top Languages
 
