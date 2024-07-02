@@ -33,11 +33,15 @@
 
 ## GitHub Stats
 
-![Temesgen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Temesgen's GitHub stats](https://github-readme-stats.vercel.app/api?username=temesgen5335&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=temesgen5335&layout=compact&theme=radical)
+
+## GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=temesgen5335)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=temesgen5335&show_icons=true&locale=en&layout=compact" alt="temesgen5335" /></p>
 
