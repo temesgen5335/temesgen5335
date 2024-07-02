@@ -38,7 +38,15 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=temesgen5335&layout=compact&theme=radical)
 
+## GitHub Stats and Top Languages
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=temesgen5335&show_icons=true&theme=radical" alt="Temesgen's GitHub stats" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temesgen5335&layout=compact&theme=radical" alt="Top Languages" width="45%">
+</div>
+
+
 ## GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=temesgen5335)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=temesgen5335&show_icons=true&theme=radical)
 
