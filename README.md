@@ -1,26 +1,25 @@
 <h1 align="center">Hi 👋, I'm Temesgen</h1>
-<h3 align="center">A passionate software developer from Ethiopia</h3>
+<h3 align="center">An ambitious software developer from Ethiopia</h3>
 
-- 🔭 I'm currently working on [System and Network security analyst](https://www.mint.gov.et/)
+- 🔭 I'm currently working on [System and Network Security analyst](https://www.mint.gov.et/)
 
 - 🌱 I'm currently learning **Gen AI, Machine Learning, and Data Engineering**
 
 - 📝 I regularly write articles on [https://medium.com/@temesgen5335](https://medium.com/@temesgen5335)
 
-- 💬 Ask me about **Python, Javascript, php, SQL,Data science, LLM concepts**
+- 💬 Ask me about **Python, Javascript, SQL, Prompt Engineering, RAG pipeline,Huggingface, Transformers, Machine Learning**
 
 - 📫 How to reach me **temesgen5335@gmail.com**
 
 
 ## Connect with me
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/temesgen5335)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/temesgen-gebreabzgi)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/temesgen5335)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/temesgen5335)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@temesgen5335)
-
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/Temesgen5335)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/temesgen5335)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/temesgen5335)
 
 ## Languages and Tools
 
