@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Temesgen</h1>
-<h3 align="center">An ambitious software developer from Ethiopia</h3>
+<h3 align="center">An ambitious software Engineer from Ethiopia</h3>
 
 - 🔭 I'm currently working on [System and Network Security Engineer](http://www.mint.gov.et/)
 
