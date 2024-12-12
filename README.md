@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Javascript, SQL, Prompt Engineering, RAG pipeline,Huggingface, Transformers, Machine Learning**
 
-- 📫 How to reach me **temesgen5335@gmail.com**
+- 📫 How to reach me **temesgengebreab33@gmail.com**
 
 
 ## Connect with me
