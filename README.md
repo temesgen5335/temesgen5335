@@ -148,7 +148,7 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=temesgen5335&show_icons=true&theme=radical" alt="Temesgen's GitHub stats" width="53%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temesgen5335&layout=compact&theme=radical" alt="Top Languages" width="40%" height="65">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temesgen5335&layout=compact&theme=radical" alt="Top Languages" width="40%" hight="65">
 
 </div>
 
