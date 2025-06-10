@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Temesgen</h1>
 <h3 align="center">An ambitious Software Engineer from Ethiopia</h3>
 
-- 🔭 I'm currently working as [Software Engineer](http://www.mint.gov.et/)
+- 🔭 I'm currently working as [Software Engineer II](https://www.safaricom.et/)
 
 - 🌱 I'm currently learning **Gen AI, Machine Learning, and Data Engineering**
 
