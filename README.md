@@ -15,33 +15,45 @@ Strong focus on moving AI systems from experimentation to robust, observable, an
 
 ## AI Engineering Expertise
 
-**Agentic & Autonomous Systems**
-- Agentic architecture design
-- Tool-augmented LLM systems
-- Multi-step reasoning pipelines
-- Planning and orchestration frameworks
-- Memory management strategies
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**LLM Systems & Infrastructure**
-- Retrieval and knowledge-grounded generation
-- Model evaluation & benchmarking
-- Alignment & guardrail implementation
-- Context optimization & token efficiency
-- Inference optimization & deployment strategies
+### Agentic & Autonomous Systems
+- Agentic architecture design  
+- Tool-augmented LLM systems  
+- Multi-step reasoning pipelines  
+- Planning & orchestration frameworks  
+- Memory management strategies  
 
-**Data-Centric AI**
-- Large-scale dataset engineering
-- Feature engineering for NLP systems
-- Distributed preprocessing pipelines
-- Data warehouse design for model training
-- Web-scale data extraction
+### LLM Systems & Infrastructure
+- Retrieval & knowledge-grounded generation  
+- Model evaluation & benchmarking  
+- Alignment & guardrail implementation  
+- Context optimization & token efficiency  
+- Inference optimization strategies  
 
-**Production AI Systems**
-- Scalable API design
-- Containerized deployment (Docker)
-- Workflow orchestration (Airflow)
-- System observability & reliability
-- Performance monitoring
+</td>
+
+<td width="50%" valign="top">
+
+### Data-Centric AI
+- Large-scale dataset engineering  
+- Advanced feature engineering (NLP)  
+- Distributed preprocessing pipelines  
+- Data warehouse design for model training  
+- Web-scale data extraction  
+
+### Production AI Systems
+- Scalable API architecture  
+- Containerized deployments (Docker)  
+- Workflow orchestration (Airflow)  
+- Observability & reliability engineering  
+- Performance monitoring  
+
+</td>
+</tr>
+</table>
 
 ---
 
