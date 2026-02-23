@@ -1,25 +1,54 @@
-<h1 align="center">Hi 👋, I'm Temesgen</h1>
-<h3 align="center">An ambitious Software Engineer from Ethiopia</h3>
+<h1 align="center">Temesgen Gebreabzgi</h1>
+<p align="center">
+Senior Software Engineer | AI Systems Architect | Agentic AI | Data Platforms
+</p>
 
-- 🔭 I'm currently working as [Software Engineer II](https://www.safaricom.et/)
+---
 
-- 🌱 I'm currently learning **Gen AI, Machine Learning, and Data Engineering**
+## Profile
 
-- 📝 I regularly write articles on [https://medium.com/@temesgen5335](https://medium.com/@temesgen5335)
+AI focused Senior Software Engineer designing and deploying production grade intelligent systems.
+Specialized in agentic architectures, LLM powered applications, scalable data pipelines, and high reliability AI infrastructure.  
+Strong focus on moving AI systems from experimentation to robust, observable, and maintainable production environments.
 
-- 💬 Ask me about **Python, Javascript, SQL, Prompt Engineering, RAG pipeline,Huggingface, Transformers, Machine Learning**
+---
 
-- 📫 How to reach me **temesgengebreab33@gmail.com**
+## AI Engineering Expertise
 
+**Agentic & Autonomous Systems**
+- Agentic architecture design
+- Tool-augmented LLM systems
+- Multi-step reasoning pipelines
+- Planning and orchestration frameworks
+- Memory management strategies
 
-## Connect with me
+**LLM Systems & Infrastructure**
+- Retrieval and knowledge-grounded generation
+- Model evaluation & benchmarking
+- Alignment & guardrail implementation
+- Context optimization & token efficiency
+- Inference optimization & deployment strategies
 
+**Data-Centric AI**
+- Large-scale dataset engineering
+- Feature engineering for NLP systems
+- Distributed preprocessing pipelines
+- Data warehouse design for model training
+- Web-scale data extraction
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/temesgen-gebreabzgi)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@temesgen5335)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/Temesgen5335)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/temesgen5335)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/temesgen_5335)
+**Production AI Systems**
+- Scalable API design
+- Containerized deployment (Docker)
+- Workflow orchestration (Airflow)
+- System observability & reliability
+- Performance monitoring
+
+---
+
+## Contact
+
+LinkedIn: https://linkedin.com/in/temesgen-gebreabzgi  
+Email: temesgengebreab33@gmail.com
 
 ## Languages and Tools
 
@@ -140,18 +169,4 @@
   </a>
 
 </p>
-
-
-
-
-## GitHub Stats 
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=temesgen5335&show_icons=true&theme=radical" alt="Temesgen's GitHub stats" width="53%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temesgen5335&layout=compact&theme=radical" alt="Top Languages" width="40%" hight="65">
-
-</div>
-
-## 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=temesgen5335&show_icons=true&theme=radical)
 
