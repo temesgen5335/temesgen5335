@@ -3,6 +3,11 @@
 Senior Software Engineer | AI Systems Architect | Agentic AI | Data Platforms
 </p>
 
+<p align="center">
+<a href="https://temesgendev.vercel.app">Portfolio</a> • 
+<a href="https://linkedin.com/in/temesgen-gebreabzgi">LinkedIn</a> • 
+<a href="mailto:temesgengebreab33@gmail.com">Email</a>
+</p>
 ---
 
 ## Profile
@@ -56,13 +61,6 @@ Strong focus on moving AI systems from experimentation to robust, observable, an
 </table>
 
 ---
-
-## Contact
-
-LinkedIn: https://linkedin.com/in/temesgen-gebreabzgi  
-Email: temesgengebreab33@gmail.com
-Portfolio: https://temesgendev.vercel.app/
-
 
  ## Engineering Stack
 
