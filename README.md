@@ -61,6 +61,7 @@ Strong focus on moving AI systems from experimentation to robust, observable, an
 
 LinkedIn: https://linkedin.com/in/temesgen-gebreabzgi  
 Email: temesgengebreab33@gmail.com
+Portfolio: https://temesgendev.vercel.app/
 
 
  ## Engineering Stack
