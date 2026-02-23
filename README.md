@@ -8,6 +8,7 @@ Senior Software Engineer | AI Systems Architect | Agentic AI | Data Platforms
 <a href="https://linkedin.com/in/temesgen-gebreabzgi">LinkedIn</a> • 
 <a href="mailto:temesgengebreab33@gmail.com">Email</a>
 </p>
+
 ---
 
 ## Profile
